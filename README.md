@@ -8,4 +8,4 @@ All my random stuff (from that, that at any online is and not in another reposit
   - To use the project, you need [Tampermonkey](https://www.tampermonkey.net)
 - Introduction:
   - This pack Schm-infect all words in the *W*orld*W*ide*W*eb
-  - NO guarantee of readability
+  - No guarantee of readability
